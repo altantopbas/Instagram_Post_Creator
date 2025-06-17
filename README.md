@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/cfad28ed-5608-4e41-9cb3-f773c5419555)# 📸 Instagram Post Creator
+# 📸 Instagram Post Creator
 
 **Instagram Post Creator**, kullanıcının verdiği girdilere göre otomatik olarak içerik üreten bir uygulamadır. Bu içerikler görsel, başlık ve açıklama (caption) olarak oluşturulur ve sosyal medya paylaşımlarını hızlandırmak için tasarlanmıştır.
 
 ---
+
 
 ## 🚀 Özellikler
 
